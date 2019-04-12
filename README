@@ -1,0 +1,7 @@
+How to Complie :
+Gcc =
+gcc lib1.c asisten.c AssignAsistenManual.c auto_sch.c rule_check.c tampilam.c ExportImportCSV.c main_old.c -o main_old
+
+Code Blocks =
+-
+
